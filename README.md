@@ -1,2 +1,2 @@
 # JAVA-
-This repo contains code of complete JAVA 
+This repository contains code of complete  CORE JAVA & ADV JAVA
